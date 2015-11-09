@@ -1,0 +1,46 @@
+Given A and B, count the numbers N such that A ≤ N ≤ B and N is a palindrome.
+
+Examples: 
+Palindromes: 121, 11 , 11411 
+Not Palindromes: 122, 10
+
+Input: 
+First line contains T, the number of testcases. Each testcase consists of two integers A and B in one line.
+
+Output: 
+For each testcase, print the required answer in one line.
+
+Constraints: 
+1 ≤ T ≤ 10 
+0 ≤ A ≤ B ≤ 105
+
+Sample Input(Plaintext Link)
+ 2
+10 13
+20 30
+Sample Output(Plaintext Link)
+ 1
+1
+
+Code
+====
+tc = input()
+while tc >0:
+	a,b = (int(i) for i in raw_input().split())
+	count = 0
+	for i in range(a,b+1):
+		i = str(i)
+		leng = len(i)
+		j=0
+		flag=0
+		while j <=leng/2:
+			if i[j] == i[leng-1-j]:
+				j+=1
+			else:
+				flag = 1
+				break
+		if flag == 0:
+			count +=1
+	print count
+	
+	tc -=1
