@@ -1,0 +1,36 @@
+Given two integers - n and r, your task is to calculate the combinatorial nCr.
+nCr = n! / r! (n-r)!
+The caveat is that you have to write code to do this calculation in minimum number of characters.
+
+UPDATE: The testcases for this problem have been fixed. Please try submitting your solution again.
+
+Input
+The first line will be number of testcases T. Then T lines follow, each containing two positive integers - n and r.
+
+output
+Print T lines, each line containing the value of nCr.
+
+Constraints
+1 <= T <= 100
+1 <= r <= n <= 1000
+
+You can assume that the value nCr will fit into a signed 64 bit integer.
+
+Code
+===
+d={}
+d[1]=1
+def ft(n):
+	if n in d.keys():
+		return d[n]
+	else:
+		f = n*ft(n-1)
+		d[n]=f
+		return f
+t = input()
+while t >0:
+	n,r = (int(i) for i in raw_input().split())
+	rs = ft(n)/(ft(r)*ft(n-r))
+	print rs
+	t -=1
+
