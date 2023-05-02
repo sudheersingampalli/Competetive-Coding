@@ -17,4 +17,4 @@ This repository is having solutions for a collection of competative coding quest
 
 [Print Zig Zag Level Order of a Binary Tree](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/zigzagLevelOrder.py)
 
-
+[Check if a Binary Tree is a BST](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/isValidBST.py)
