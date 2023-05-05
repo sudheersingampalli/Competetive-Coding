@@ -20,3 +20,5 @@ This repository is having solutions for a collection of competative coding quest
 [Check if a Binary Tree is a BST](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/isValidBST.py)
 
 [Delete a node from BST](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/Delete-Node-BST.py)
+
+[Create a Balanced BST using a sorted array](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/CreateBSTWithSortedArray.py)
