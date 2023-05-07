@@ -22,3 +22,7 @@ This repository is having solutions for a collection of competative coding quest
 [Delete a node from BST](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/Delete-Node-BST.py)
 
 [Create a Balanced BST using a sorted array](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/CreateBSTWithSortedArray.py)
+
+[Least Common Ansestor in a Binary Tree](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/LCAInBT.py)
+
+[Least Common Ansestor in a Binary Tree](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/LCAInBST.py)
