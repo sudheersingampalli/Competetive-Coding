@@ -26,3 +26,5 @@ This repository is having solutions for a collection of competative coding quest
 [Least Common Ansestor in a Binary Tree](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/LCAInBT.py)
 
 [Least Common Ansestor in a Binary Search Tree](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/LCAInBST.py)
+
+[Create invert a binary tree](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/invertTree.py)
