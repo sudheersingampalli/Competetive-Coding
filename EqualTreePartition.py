@@ -1,26 +1,21 @@
-'''
-Given a BT, check if we can divide the tree into two parts such that their sum is equal
-Hints:
-1. Check total sum. If sum%2 !=0 return false
-2. One of the subtree should be equal to sum/2
-'''
-
-import sys
 # Definition for a  binary tree node
-class TreeNode:
-   def __init__(self, x):
-       self.val = x
-       self.left = None
-       self.right = None
-
+# class TreeNode:
+#    def __init__(self, x):
+#        self.val = x
+#        self.left = None
+#        self.right = None
+import sys
 class Solution:
-    # @param A : root node of tree
-    # @return an integer
-    sys.setrecursionlimit(10**6)
-    def solve(self, A):
-      def totalSum(A):
-			  if not A: return 0
-			  return totalSum(A.left)+A.val+totalSum(A.right)
+	# @param A : root node of tree
+	# @return an integer
+	sys.setrecursionlimit(10**6)
+	def solve(self, A):
+		# whole sum should be even
+		# one of the subtree as a whole will be involved
+		# one of the subtree will be sum/2 then return true
+		def totalSum(A):
+			if not A: return 0
+			return totalSum(A.left)+A.val+totalSum(A.right)
 	
 		def check(A):
 			if A is None: return [0,False]
@@ -35,3 +30,12 @@ class Solution:
 	
 		res = check(A)
 		return 1 if res[1] else 0
+	
+root = TreeNode(106)
+root.right=TreeNode(480)
+root.right.left=TreeNode(454)
+root.right.right=TreeNode(321)
+root.right.right.left=TreeNode(719)
+
+s = Solution()
+print(s.solve(root))
