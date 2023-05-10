@@ -32,3 +32,5 @@ This repository is having solutions for a collection of competative coding quest
 [Equal Tree Partition](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/EqualTreePartition.py)
 
 [Kth Smallest Element in a BST](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/kthSmallestInBST.py)
+
+[Find Path With Sum K In BT]((https://github.com/sudheersingampalli/Competetive-Coding/blob/master/FindPathWithSumKInBT.py)
