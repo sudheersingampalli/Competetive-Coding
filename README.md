@@ -30,3 +30,5 @@ This repository is having solutions for a collection of competative coding quest
 [Invert a binary tree](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/invertTree.py)
 
 [Equal Tree Partition](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/EqualTreePartition.py)
+
+[Kth Smallest Element in a BST](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/kthSmallestInBST.py)
