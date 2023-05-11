@@ -34,3 +34,5 @@ This repository is having solutions for a collection of competative coding quest
 [Kth Smallest Element in a BST](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/kthSmallestInBST.py)
 
 [Find Path With Sum K In BT](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/FindPathWithSumKInBT.py)
+
+[Check if a Binary Tree is a binary Sum tree](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/BinarySumTree.py)
