@@ -38,3 +38,6 @@ This repository is having solutions for a collection of competative coding quest
 [Check if a Binary Tree is a binary Sum tree](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/BinarySumTree.py)
 
 [Check if two trees are identical](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/IdenticalBT.py)
+
+# Trie
+[Create a Trie of words and search a list of words in it](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/Trie.py)
