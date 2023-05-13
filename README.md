@@ -41,3 +41,5 @@ This repository is having solutions for a collection of competative coding quest
 
 # Trie
 [Create a Trie of words and search a list of words in it](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/Trie.py)
+
+[finding shortest unique prefix in a Trie](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/TrieUniquePrefix.py)
