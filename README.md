@@ -6,6 +6,8 @@ This repository is having solutions for a collection of competative coding quest
 
 [Find squareroot of a number in Log(N) time](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/SquareRoot.py)
 
+[Recover a BST](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/RecoverBST.py)
+
 # Trees
 [Level Order of a Binary tree](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/LevelOrderTravesal.py)
 
