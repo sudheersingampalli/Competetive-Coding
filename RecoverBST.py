@@ -28,6 +28,9 @@ Input 2:
 Example Output
 Output 1: [2, 1]
 Output 2: [3, 1]
+
+Logic:: Traverse Inorder. If a node's value is less than it's prev value, keep track of the prev and current node as first and mdiddle eles. Continue to traverse the
+tree. If we find another anamoly where node<prev node, mark it as last. return first and last or first and middle(if last is not available)
 '''
 
 # Definition for a  binary tree node
