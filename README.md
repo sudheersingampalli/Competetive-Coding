@@ -1,6 +1,9 @@
 # Competetive-Coding
 This repository is having solutions for a collection of competative coding questions.
 
+# Arrays
+[Sort an array using 2 stacks](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/sortUsing2Stacks.py)
+
 # Binary Search
 [Find an element in a sorted rotated array](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/FindInRotatedArray.py)
 
