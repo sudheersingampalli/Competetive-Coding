@@ -48,3 +48,6 @@ This repository is having solutions for a collection of competative coding quest
 [Create a Trie of words and search a list of words in it](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/Trie.py)
 
 [finding shortest unique prefix in a Trie](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/TrieUniquePrefix.py)
+
+# DP
+[Find number of ways to climb a staircase](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/Stairs.py)
