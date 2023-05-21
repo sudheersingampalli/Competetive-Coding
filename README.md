@@ -54,6 +54,9 @@ This repository is having solutions for a collection of competative coding quest
 
 [finding shortest unique prefix in a Trie](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/TrieUniquePrefix.py)
 
+# Heap
+[Find and return the minimum cost to connect ropes into one rope.](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/connectRopes.py)
+
 # DP
 [Find number of ways to climb a staircase](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/Stairs.py)
 
