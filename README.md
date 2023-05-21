@@ -14,6 +14,8 @@ This repository is having solutions for a collection of competative coding quest
 # Trees
 [Level Order of a Binary tree](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/LevelOrderTravesal.py)
 
+[Level of BT with max sum](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/maxSumLevel.py)
+
 [Top View of a Binary tree](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/TopViewOfBinaryTree.py)
 
 [Right View of a Binary tree](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/RightViewOfBinaryTree.py)
