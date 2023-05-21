@@ -5,7 +5,7 @@ This repository is having solutions for a collection of competative coding quest
 [Sort an array using 2 stacks](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/sortUsing2Stacks.py)
 
 # Stack
-[Longes Unbalances Subtring](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/.py)
+[Longes Unbalances Subtring](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/LongestUnbalancedSubstring.py)
 
 # Binary Search
 [Find an element in a sorted rotated array](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/FindInRotatedArray.py)
