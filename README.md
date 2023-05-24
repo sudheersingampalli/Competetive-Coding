@@ -64,3 +64,5 @@ This repository is having solutions for a collection of competative coding quest
 
 # Greedy
 [Minimum number of candies you must give to each child according to rating](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/CandyDistribution.py)
+
+[Maximize the profit by buying cars within expiry time](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/FreeCarsGreedy.py)
