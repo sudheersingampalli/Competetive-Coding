@@ -68,3 +68,5 @@ This repository is having solutions for a collection of competative coding quest
 [Maximize the profit by buying cars within expiry time](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/FreeCarsGreedy.py)
 
 [Return the maximum number of jobs you can finish](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/FinishMaximumJobs.py)
+
+[Minimum Jumps needed to fill seats](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/minJumpInSeats.py)
