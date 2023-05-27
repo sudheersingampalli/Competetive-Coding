@@ -70,3 +70,6 @@ This repository is having solutions for a collection of competative coding quest
 [Return the maximum number of jobs you can finish](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/FinishMaximumJobs.py)
 
 [Minimum Jumps needed to fill seats](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/minJumpInSeats.py)
+
+# Backtraking
+[Find all the permutations of an array with unique elements](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/Permutations.py)
