@@ -62,7 +62,7 @@ This repository is having solutions for a collection of competative coding quest
 
 [Find minimum number of squares whose sum is equal to a number](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/minCountOfSquares.py)
 
-[Find the number of paths from source to destination in a Grid with obstacles](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/uniquePathsInGrid.py)
+[Find the number of paths from source to destination in a Grid with obstacles](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/uniquePathInGrid.py)
 
 # Greedy
 [Minimum number of candies you must give to each child according to rating](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/CandyDistribution.py)
