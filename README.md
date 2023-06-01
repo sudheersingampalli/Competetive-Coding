@@ -64,6 +64,8 @@ This repository is having solutions for a collection of competative coding quest
 
 [Find the number of paths from source to destination in a Grid with obstacles](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/uniquePathInGrid.py)
 
+[Dungeon Prices](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/DungeonPrinces.py)
+
 # Greedy
 [Minimum number of candies you must give to each child according to rating](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/CandyDistribution.py)
 
