@@ -77,3 +77,6 @@ This repository is having solutions for a collection of competative coding quest
 
 # Backtraking
 [Find all the permutations of an array with unique elements](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/Permutations.py)
+
+# Knapsack
+[Fractional Knapsack](https://github.com/sudheersingampalli/Competetive-Coding/blob/master//fractionalKnapsack.py)
