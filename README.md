@@ -66,6 +66,8 @@ This repository is having solutions for a collection of competative coding quest
 
 [Dungeon Prices](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/DungeonPrinces.py)
 
+[Find minimum cost to make a string A to Sting B](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/DPString-EditDistance.py)
+
 # Greedy
 [Minimum number of candies you must give to each child according to rating](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/CandyDistribution.py)
 
