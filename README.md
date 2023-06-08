@@ -68,6 +68,8 @@ This repository is having solutions for a collection of competative coding quest
 
 [Find minimum cost to make a string A to Sting B](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/DPString-EditDistance.py)
 
+[Longest Common Subsequence](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/LCS.py)
+
 # Greedy
 [Minimum number of candies you must give to each child according to rating](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/CandyDistribution.py)
 
