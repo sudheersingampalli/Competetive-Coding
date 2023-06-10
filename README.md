@@ -70,6 +70,8 @@ This repository is having solutions for a collection of competative coding quest
 
 [Longest Common Subsequence](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/LCS.py)
 
+[Longes Increasing subsequence](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/LIS.py)
+
 # Greedy
 [Minimum number of candies you must give to each child according to rating](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/CandyDistribution.py)
 
