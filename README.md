@@ -4,6 +4,8 @@ This repository is having solutions for a collection of competative coding quest
 # Arrays
 [Sort an array using 2 stacks](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/sortUsing2Stacks.py)
 
+[Add 1 to a number represented as an array](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/addOneToNumber.py)
+
 # Stack
 [Longes Unbalances Subtring](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/LongestUnbalancedSubstring.py)
 
