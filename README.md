@@ -55,6 +55,8 @@ This repository is having solutions for a collection of competative coding quest
 
 [Count nodes that are greater than all its ansestors](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/nodeCount.py)
 
+[Given a preorder of a BT which has single child, find if it's a BST](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/checkIfBST.py)
+
 # Trie
 [Create a Trie of words and search a list of words in it](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/Trie.py)
 
