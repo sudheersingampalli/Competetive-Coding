@@ -53,6 +53,8 @@ This repository is having solutions for a collection of competative coding quest
 
 [Check if two trees are identical](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/IdenticalBT.py)
 
+[Count nodes that are greater than all its ansestors](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/nodeCount.py)
+
 # Trie
 [Create a Trie of words and search a list of words in it](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/Trie.py)
 
