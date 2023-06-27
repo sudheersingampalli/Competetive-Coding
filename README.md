@@ -95,4 +95,10 @@ This repository is having solutions for a collection of competative coding quest
 [Generate all paranthesis](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/generateParanthesis.py)
 
 # Knapsack
-[Fractional Knapsack](https://github.com/sudheersingampalli/Competetive-Coding/blob/master//fractionalKnapsack.py)
+[Fractional Knapsack](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/fractionalKnapsack.py)
+
+# Graphs
+[DFS](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/graphDFS.py)
+
+[BFS](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/graphBFS.py)
+
