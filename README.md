@@ -59,6 +59,8 @@ This repository is having solutions for a collection of competative coding quest
 
 [Given a BT, find if it's a mirror of itself](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/symmetricBT.py)
 
+[Number of nodes in given range in BST](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/BSTNodesInRange.py)
+
 # Trie
 [Create a Trie of words and search a list of words in it](https://github.com/sudheersingampalli/Competetive-Coding/blob/master/Trie.py)
 
